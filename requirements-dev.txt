@@ -1,0 +1,13 @@
+# Только для разработки. Сервер и индексатор не требуют ничего, кроме стандартной
+# библиотеки, и ходят под системным Python — см. README, «Разработка».
+#
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt
+#
+# На дистрибутивах с PEP 668 в системный интерпретатор это не поставить, и не надо:
+# venv или отдельный дистрибутив вроде Anaconda подойдёт.
+#
+# Тот же список — в pyproject.toml, [project.optional-dependencies] dev.
+pytest>=8.0
+mypy>=1.8
+ruff>=0.15
+pyyaml>=6.0     # только eval/harness.py и tests/test_eval.py; сервер его не импортирует

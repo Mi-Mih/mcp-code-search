@@ -1,0 +1,32 @@
+# Metadata and tool configuration. Not a packaging story: the server runs from a
+# checkout under the system Python with PYTHONPATH pointing here (see README,
+# «Установка»), and has no runtime dependencies to declare. This file exists so
+# that `ruff check .`, `mypy` and `pytest` mean the same thing on every machine
+# and in CI as they do in the README, instead of depending on flags remembered
+# correctly.
+
+[project]
+name = "code-search"
+version = "1.1.0"
+description = "MCP-сервер семантического поиска по коду: локальный индекс, Ollama, только stdlib"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "mypy>=1.8", "ruff>=0.15", "pyyaml>=6.0"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B"]
+
+[tool.mypy]
+strict = true
+files = ["code_search"]
+python_version = "3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

@@ -1,0 +1,762 @@
+[
+ {
+  "id": 1,
+  "kind": "domain",
+  "ranks": {
+   "hybrid": 4,
+   "vector": 2,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.166489046998322,
+   "vector": 0.15889087100003962,
+   "lexical": 0.0032548570015933365
+  },
+  "tokens": {
+   "5": 1467,
+   "10": 3632,
+   "15": 5568
+  }
+ },
+ {
+  "id": 2,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 8,
+   "vector": 5,
+   "lexical": 44
+  },
+  "seconds": {
+   "hybrid": 0.149337293998542,
+   "vector": 0.15296116600075038,
+   "lexical": 0.002133703001163667
+  },
+  "tokens": {
+   "5": 917,
+   "10": 2262,
+   "15": 4304
+  }
+ },
+ {
+  "id": 3,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 3,
+   "vector": 2,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.13029736099997535,
+   "vector": 0.1467353660009394,
+   "lexical": 0.0018529080007283483
+  },
+  "tokens": {
+   "5": 2175,
+   "10": 4899,
+   "15": 6053
+  }
+ },
+ {
+  "id": 4,
+  "kind": "domain",
+  "ranks": {
+   "hybrid": 4,
+   "vector": 2,
+   "lexical": 32
+  },
+  "seconds": {
+   "hybrid": 0.15511246700043557,
+   "vector": 0.1480694849997235,
+   "lexical": 0.003558578999218298
+  },
+  "tokens": {
+   "5": 1665,
+   "10": 4181,
+   "15": 6366
+  }
+ },
+ {
+  "id": 5,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 15,
+   "vector": 12,
+   "lexical": 15
+  },
+  "seconds": {
+   "hybrid": 0.14833086200087564,
+   "vector": 0.1597843829986232,
+   "lexical": 0.005137148000358138
+  },
+  "tokens": {
+   "5": 2417,
+   "10": 4658,
+   "15": 7299
+  }
+ },
+ {
+  "id": 6,
+  "kind": "domain",
+  "ranks": {
+   "hybrid": 2,
+   "vector": 6,
+   "lexical": 2
+  },
+  "seconds": {
+   "hybrid": 0.14331904400023632,
+   "vector": 0.15513801599809085,
+   "lexical": 0.0038178159993549343
+  },
+  "tokens": {
+   "5": 2279,
+   "10": 4655,
+   "15": 6863
+  }
+ },
+ {
+  "id": 7,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": null,
+   "vector": null,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.14288239400048042,
+   "vector": 0.16701930300041568,
+   "lexical": 0.0051275650002935436
+  },
+  "tokens": {
+   "5": 2124,
+   "10": 3705,
+   "15": 5360
+  }
+ },
+ {
+  "id": 8,
+  "kind": "domain",
+  "ranks": {
+   "hybrid": 6,
+   "vector": 3,
+   "lexical": 14
+  },
+  "seconds": {
+   "hybrid": 0.16128106399992248,
+   "vector": 0.137804623998818,
+   "lexical": 0.0015783419985382352
+  },
+  "tokens": {
+   "5": 1757,
+   "10": 3343,
+   "15": 5432
+  }
+ },
+ {
+  "id": 9,
+  "kind": "test",
+  "ranks": {
+   "hybrid": 19,
+   "vector": 17,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.14475012599723414,
+   "vector": 0.15262313799757976,
+   "lexical": 0.0017212379971169867
+  },
+  "tokens": {
+   "5": 902,
+   "10": 1510,
+   "15": 2908
+  }
+ },
+ {
+  "id": 10,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 3,
+   "vector": 1,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.15479561900065164,
+   "vector": 0.15049263399851043,
+   "lexical": 0.0020093380007892847
+  },
+  "tokens": {
+   "5": 2186,
+   "10": 3261,
+   "15": 5226
+  }
+ },
+ {
+  "id": 11,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 2,
+   "vector": 1,
+   "lexical": 3
+  },
+  "seconds": {
+   "hybrid": 0.16913756799840485,
+   "vector": 0.15124648200071533,
+   "lexical": 0.0024912369990488514
+  },
+  "tokens": {
+   "5": 971,
+   "10": 3101,
+   "15": 4570
+  }
+ },
+ {
+  "id": 12,
+  "kind": "test",
+  "ranks": {
+   "hybrid": null,
+   "vector": 49,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.15763603300001705,
+   "vector": 0.14932743099780055,
+   "lexical": 0.0038325950008584186
+  },
+  "tokens": {
+   "5": 1871,
+   "10": 3566,
+   "15": 4861
+  }
+ },
+ {
+  "id": 13,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 3,
+   "vector": 1,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.14244241199776297,
+   "vector": 0.13629001299705124,
+   "lexical": 0.001997669998672791
+  },
+  "tokens": {
+   "5": 1591,
+   "10": 2926,
+   "15": 3847
+  }
+ },
+ {
+  "id": 14,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": null,
+   "vector": null,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.13591533200087724,
+   "vector": 0.13312611899891635,
+   "lexical": 0.002740438998444006
+  },
+  "tokens": {
+   "5": 1164,
+   "10": 3373,
+   "15": 5338
+  }
+ },
+ {
+  "id": 15,
+  "kind": "docs",
+  "ranks": {
+   "hybrid": 23,
+   "vector": 22,
+   "lexical": 37
+  },
+  "seconds": {
+   "hybrid": 0.13326978199984296,
+   "vector": 0.14363253300325596,
+   "lexical": 0.0018531240020820405
+  },
+  "tokens": {
+   "5": 1222,
+   "10": 2395,
+   "15": 3456
+  }
+ },
+ {
+  "id": 16,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.1340527899992594,
+   "vector": 0.13308086799952434,
+   "lexical": 0.001280098997085588
+  },
+  "tokens": {
+   "5": 1810,
+   "10": 2687,
+   "15": 3081
+  }
+ },
+ {
+  "id": 17,
+  "kind": "domain",
+  "ranks": {
+   "hybrid": 3,
+   "vector": 1,
+   "lexical": 28
+  },
+  "seconds": {
+   "hybrid": 0.14902753899878007,
+   "vector": 0.1588103050016798,
+   "lexical": 0.0032982649972836953
+  },
+  "tokens": {
+   "5": 2586,
+   "10": 5335,
+   "15": 7461
+  }
+ },
+ {
+  "id": 18,
+  "kind": "domain",
+  "ranks": {
+   "hybrid": 21,
+   "vector": 19,
+   "lexical": 8
+  },
+  "seconds": {
+   "hybrid": 0.1436388599977363,
+   "vector": 0.1435351879990776,
+   "lexical": 0.00353425099820015
+  },
+  "tokens": {
+   "5": 2116,
+   "10": 3912,
+   "15": 6292
+  }
+ },
+ {
+  "id": 19,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 2,
+   "vector": 1,
+   "lexical": 29
+  },
+  "seconds": {
+   "hybrid": 0.1506535119988257,
+   "vector": 0.1490923710007337,
+   "lexical": 0.00405406500067329
+  },
+  "tokens": {
+   "5": 2053,
+   "10": 4494,
+   "15": 5917
+  }
+ },
+ {
+  "id": 20,
+  "kind": "test",
+  "ranks": {
+   "hybrid": null,
+   "vector": null,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.14819619699846953,
+   "vector": 0.15001492900046287,
+   "lexical": 0.003699095999763813
+  },
+  "tokens": {
+   "5": 2109,
+   "10": 3579,
+   "15": 5236
+  }
+ },
+ {
+  "id": 21,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 3,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.1384094319982978,
+   "vector": 0.13364519400056452,
+   "lexical": 0.003189940998709062
+  },
+  "tokens": {
+   "5": 1395,
+   "10": 3126,
+   "15": 5397
+  }
+ },
+ {
+  "id": 22,
+  "kind": "docs",
+  "ranks": {
+   "hybrid": 3,
+   "vector": 1,
+   "lexical": 46
+  },
+  "seconds": {
+   "hybrid": 0.12939759300206788,
+   "vector": 0.14806996200059075,
+   "lexical": 0.0021225489981588908
+  },
+  "tokens": {
+   "5": 1967,
+   "10": 2820,
+   "15": 2971
+  }
+ },
+ {
+  "id": 23,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.15530667500206619,
+   "vector": 0.15191572299954714,
+   "lexical": 0.0027460080018499866
+  },
+  "tokens": {
+   "5": 2269,
+   "10": 4020,
+   "15": 5834
+  }
+ },
+ {
+  "id": 24,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 2
+  },
+  "seconds": {
+   "hybrid": 0.14736775499841315,
+   "vector": 0.15301402700060862,
+   "lexical": 0.003755286001251079
+  },
+  "tokens": {
+   "5": 1971,
+   "10": 4077,
+   "15": 6402
+  }
+ },
+ {
+  "id": 25,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 5,
+   "vector": 3,
+   "lexical": 30
+  },
+  "seconds": {
+   "hybrid": 0.1256698100005451,
+   "vector": 0.14268521799749578,
+   "lexical": 0.0019096420001005754
+  },
+  "tokens": {
+   "5": 1127,
+   "10": 2831,
+   "15": 4212
+  }
+ },
+ {
+  "id": 26,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.1575749440016807,
+   "vector": 0.1476666730013676,
+   "lexical": 0.002147051000065403
+  },
+  "tokens": {
+   "5": 2061,
+   "10": 4478,
+   "15": 7079
+  }
+ },
+ {
+  "id": 27,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 2,
+   "vector": 1,
+   "lexical": 2
+  },
+  "seconds": {
+   "hybrid": 0.13752502399802324,
+   "vector": 0.13475800800006255,
+   "lexical": 0.001463314998545684
+  },
+  "tokens": {
+   "5": 2958,
+   "10": 4276,
+   "15": 5821
+  }
+ },
+ {
+  "id": 28,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 16,
+   "vector": 16,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.15261097799884737,
+   "vector": 0.13781529300104012,
+   "lexical": 0.002578537998488173
+  },
+  "tokens": {
+   "5": 2173,
+   "10": 4104,
+   "15": 5237
+  }
+ },
+ {
+  "id": 29,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 2,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.14991957999882288,
+   "vector": 0.1480816869989212,
+   "lexical": 0.0016831169996294193
+  },
+  "tokens": {
+   "5": 2286,
+   "10": 4551,
+   "15": 6877
+  }
+ },
+ {
+  "id": 30,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.13610872400022345,
+   "vector": 0.13832729300338542,
+   "lexical": 0.0012227549996168818
+  },
+  "tokens": {
+   "5": 1907,
+   "10": 2346,
+   "15": 3231
+  }
+ },
+ {
+  "id": 31,
+  "kind": "docs",
+  "ranks": {
+   "hybrid": 2,
+   "vector": 1,
+   "lexical": 3
+  },
+  "seconds": {
+   "hybrid": 0.1474372590018902,
+   "vector": 0.14350407000165433,
+   "lexical": 0.003213387000869261
+  },
+  "tokens": {
+   "5": 928,
+   "10": 2379,
+   "15": 4649
+  }
+ },
+ {
+  "id": 32,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 6,
+   "vector": 3,
+   "lexical": 9
+  },
+  "seconds": {
+   "hybrid": 0.14454597899748478,
+   "vector": 0.13806711900178925,
+   "lexical": 0.002510055001039291
+  },
+  "tokens": {
+   "5": 1716,
+   "10": 3409,
+   "15": 5906
+  }
+ },
+ {
+  "id": 33,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 8,
+   "vector": 5,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.14861606800332083,
+   "vector": 0.14630809600203065,
+   "lexical": 0.0026816890022018924
+  },
+  "tokens": {
+   "5": 1374,
+   "10": 2185,
+   "15": 2949
+  }
+ },
+ {
+  "id": 34,
+  "kind": "docs",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 2
+  },
+  "seconds": {
+   "hybrid": 0.14506812400213676,
+   "vector": 0.14208908900036477,
+   "lexical": 0.0032679079995432403
+  },
+  "tokens": {
+   "5": 1815,
+   "10": 4459,
+   "15": 6695
+  }
+ },
+ {
+  "id": 35,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.1396418709991849,
+   "vector": 0.14391169500231626,
+   "lexical": 0.0019466369994916022
+  },
+  "tokens": {
+   "5": 1572,
+   "10": 3325,
+   "15": 5042
+  }
+ },
+ {
+  "id": 36,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.1340833130016108,
+   "vector": 0.13593930799834197,
+   "lexical": 0.002122193000104744
+  },
+  "tokens": {
+   "5": 1296,
+   "10": 1887,
+   "15": 2991
+  }
+ },
+ {
+  "id": 37,
+  "kind": "test",
+  "ranks": {
+   "hybrid": null,
+   "vector": null,
+   "lexical": null
+  },
+  "seconds": {
+   "hybrid": 0.14775005699993926,
+   "vector": 0.1385021889982454,
+   "lexical": 0.0041536319986335
+  },
+  "tokens": {
+   "5": 2527,
+   "10": 4917,
+   "15": 6017
+  }
+ },
+ {
+  "id": 38,
+  "kind": "concept",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 1,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.14529862900235457,
+   "vector": 0.1459253089997219,
+   "lexical": 0.0021706369989260565
+  },
+  "tokens": {
+   "5": 1199,
+   "10": 3281,
+   "15": 4980
+  }
+ },
+ {
+  "id": 39,
+  "kind": "exact",
+  "ranks": {
+   "hybrid": 4,
+   "vector": 2,
+   "lexical": 5
+  },
+  "seconds": {
+   "hybrid": 0.14326039799925638,
+   "vector": 0.1400220569994417,
+   "lexical": 0.0004152410001552198
+  },
+  "tokens": {
+   "5": 2022,
+   "10": 4009,
+   "15": 5896
+  }
+ },
+ {
+  "id": 40,
+  "kind": "exact",
+  "ranks": {
+   "hybrid": 1,
+   "vector": 17,
+   "lexical": 1
+  },
+  "seconds": {
+   "hybrid": 0.13566909200017108,
+   "vector": 0.1370129770002677,
+   "lexical": 0.00032676500268280506
+  },
+  "tokens": {
+   "5": 792,
+   "10": 1462,
+   "15": 2579
+  }
+ }
+]

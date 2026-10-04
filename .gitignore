@@ -1,0 +1,154 @@
+# Python bytecode and interpreter caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.python-version
+
+# Native extensions
+*.so
+*.dylib
+*.dll
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.direnv/
+.envrc.local
+
+# Packaging and build output
+build/
+dist/
+downloads/
+*.egg-info/
+.eggs/
+eggs/
+develop-eggs/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg
+MANIFEST
+pip-wheel-metadata/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test, coverage, and quality-tool caches
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+coverage.json
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+.pyright/
+test-results/
+junit.xml
+
+# Documentation builds
+docs/_build/
+site/
+.mkdocs_cache/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Dependency and task-runner state
+.pdm-python
+.pdm-build/
+__pypackages__/
+.poetry-cache/
+.uv-cache/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# Application runtime data
+.code-search/
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.log
+logs/
+
+# Temporary and backup files
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+*.rej
+*~
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+.fleet/
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# Operating-system metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100/
+.fseventsd/
+.Spotlight-V100/
+.TemporaryItems/
+.Trashes/
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Profiling and benchmark output
+*.prof
+*.lprof
+*.flamegraph
+.benchmarks/
+benchmark-results/
+
+# Local scratch files
+scratch/
+notes.local.*
+*.local
